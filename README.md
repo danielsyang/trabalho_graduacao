@@ -11,4 +11,4 @@ OCR.py is use to load a picture containg a bunch of digit. The result are all th
 Finally NeuralNetwork4.py is where the neural network run. It will first load the MNIST database, then it will start the training section and finishing with the images that you have saved after running the OCR.py.
 
 
-For more information about NN please check out http://neuralnetworksanddeeplearning.com/ . It is a good place to start learning about machine learning and artificial intelligence.
+This entire project was based on http://neuralnetworksanddeeplearning.com/ . If you want more information about NN please go check it out. It is a good place to start learning about machine learning and artificial intelligence.
